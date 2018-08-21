@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Quiz from './quiz';
+import Quiz from './Quiz';
 import './App.css'
 
 class App extends Component {
